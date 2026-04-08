@@ -1,7 +1,7 @@
 # Contributors
 
-## Human Author
-- **Project Lead & Hardware Engineer**
+## Human Authors
+- **Engineer Student team**
   - Designed and built the physical window cleaning cart
   - Conducted all hardware testing and calibration
   - Defined system requirements and project scope
